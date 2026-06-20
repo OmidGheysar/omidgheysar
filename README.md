@@ -1,6 +1,6 @@
 # Omid Gheysar
 
-**Applied Scientist** — building ML systems at the intersection of health data and AI
+**Applied Scientist** building ML systems at the intersection of health data and AI
 
 PhD in Computational Mathematics · Published ML research in infectious disease (Scientific Reports)
 
