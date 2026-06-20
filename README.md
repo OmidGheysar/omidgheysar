@@ -6,7 +6,7 @@ PhD in Computational Mathematics · Published ML research in infectious disease 
 
 ---
 
-### 🚀 Currently building: [EpiRAG](https://github.com/OmidGheysar/epi-rag)
+### Currently building: [EpiRAG](https://github.com/OmidGheysar/epi-rag)
 
 A retrieval-augmented assistant for epidemiological methodology, built over a verified open-access corpus with a full evaluation framework.
 
@@ -22,7 +22,7 @@ A retrieval-augmented assistant for epidemiological methodology, built over a ve
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
