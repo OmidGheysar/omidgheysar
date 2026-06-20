@@ -20,10 +20,10 @@ A retrieval-augmented assistant for epidemiological methodology, built over a ve
 
 ---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 
 ---
 
